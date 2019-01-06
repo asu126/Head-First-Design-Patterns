@@ -1,5 +1,6 @@
 package headfirst.designpatterns.factory.pizzas;
 
+// Ö¥Ê¿ÅûÈø
 public class CheesePizza extends Pizza {
 	public CheesePizza() {
 		name = "Cheese Pizza";
